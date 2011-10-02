@@ -1,0 +1,316 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* templateAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 597}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 426}";
+		};
+	};
+	1D3623250D0F684500981E51 /* templateAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 854}}";
+			sepNavSelRange = "{1600, 0}";
+			sepNavVisRange = "{352, 1257}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* tutorial02 */ = {
+		activeExec = 0;
+		executables = (
+			E0E30D520E5EA2D100F6D25F /* tutorial02 */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {714, 644}}";
+			sepNavSelRange = "{250, 33}";
+			sepNavVisRange = "{0, 1050}";
+			sepNavWindowFrame = "{{15, 0}, {889, 873}}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {918, 3626}}";
+			sepNavSelRange = "{3445, 0}";
+			sepNavVisRange = "{2513, 1088}";
+			sepNavWindowFrame = "{{264, -18}, {889, 873}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = E0E30D520E5EA2D100F6D25F /* tutorial02 */;
+		activeSDKPreference = iphoneos2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* tutorial02 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* tutorial02 */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = E0E30D5D0E5EA2D400F6D25F /* Code sense */;
+		executables = (
+			E0E30D520E5EA2D100F6D25F /* tutorial02 */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					217,
+					20,
+					119,
+					119,
+					47,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					392,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					423,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 259579790;
+			PBXWorkspaceStateSaveDate = 259579790;
+		};
+		perUserProjectItems = {
+			E0E314010E5EA87E00F6D25F /* PlistBookmark */ = E0E314010E5EA87E00F6D25F /* PlistBookmark */;
+			E0E5BB370F78DFCB00D2303B /* PlistBookmark */ = E0E5BB370F78DFCB00D2303B /* PlistBookmark */;
+			E0E5BB380F78DFCB00D2303B /* PlistBookmark */ = E0E5BB380F78DFCB00D2303B /* PlistBookmark */;
+			E0E5BB390F78DFCB00D2303B /* PlistBookmark */ = E0E5BB390F78DFCB00D2303B /* PlistBookmark */;
+		};
+		sourceControlManager = E0E30D5C0E5EA2D400F6D25F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 615}}";
+			sepNavSelRange = "{282, 0}";
+			sepNavVisRange = "{0, 437}";
+		};
+	};
+	E0CB5BFD0EE9F5C800599D63 /* sio2_camera.cc */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 9170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2243}";
+		};
+	};
+	E0CB5C0B0EE9F5C800599D63 /* sio2_material.cc */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {618, 6692}}";
+			sepNavSelRange = "{6577, 0}";
+			sepNavVisRange = "{6391, 793}";
+		};
+	};
+	E0CB5C260EE9F5C800599D63 /* sio2_vector.cc */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 2506}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2243}";
+		};
+	};
+	E0CB5C310EE9F5C800599D63 /* sio2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {864, 4984}}";
+			sepNavSelRange = "{9449, 0}";
+			sepNavVisRange = "{8335, 1529}";
+		};
+	};
+	E0CB5C330EE9F5C800599D63 /* sio2_window.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 3038}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1784}";
+		};
+	};
+	E0E30D520E5EA2D100F6D25F /* tutorial02 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = tutorial02;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E0E30D5C0E5EA2D400F6D25F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	E0E30D5D0E5EA2D400F6D25F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E0E310860E5EA3C300F6D25F /* main.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 597}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	E0E310870E5EA40200F6D25F /* template.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 575}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{0, 438}";
+		};
+	};
+	E0E310880E5EA40200F6D25F /* template.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {630, 2758}}";
+			sepNavSelRange = "{4416, 0}";
+			sepNavVisRange = "{4086, 956}";
+		};
+	};
+	E0E310F40E5EA54900F6D25F /* gzio.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {606, 14980}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 877}";
+		};
+	};
+	E0E310F90E5EA54900F6D25F /* adler32.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {665, 1974}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1567}";
+		};
+	};
+	E0E310FB0E5EA54900F6D25F /* window.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {665, 549}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1143}";
+		};
+	};
+	E0E311840E5EA54900F6D25F /* jversion.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {665, 549}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 275}";
+		};
+	};
+	E0E314010E5EA87E00F6D25F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/rom/Desktop/Silicon Dioxide/SIO2_SDK/template/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	E0E5BB370F78DFCB00D2303B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/rom/Desktop/SIO2_SDK_v1_3/tutorial02/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	E0E5BB380F78DFCB00D2303B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/rom/Desktop/SIO2_SDK_v1_3/tutorial02/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	E0E5BB390F78DFCB00D2303B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/rom/Desktop/SIO2_SDK_v1_3/tutorial02/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	E0F6AD4B0F24025700DA0338 /* lapi.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 15246}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 769}";
+		};
+	};
+}
