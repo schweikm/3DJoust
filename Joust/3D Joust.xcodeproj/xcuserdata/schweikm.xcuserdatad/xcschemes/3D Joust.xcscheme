@@ -16,7 +16,7 @@
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
                BuildableName = "3DJoust.app"
                BlueprintName = "3D Joust"
-               ReferencedContainer = "container:template.xcodeproj">
+               ReferencedContainer = "container:3D Joust.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -41,7 +41,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "3DJoust.app"
             BlueprintName = "3D Joust"
-            ReferencedContainer = "container:template.xcodeproj">
+            ReferencedContainer = "container:3D Joust.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "3DJoust.app"
             BlueprintName = "3D Joust"
-            ReferencedContainer = "container:template.xcodeproj">
+            ReferencedContainer = "container:3D Joust.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
